@@ -5423,7 +5423,7 @@ content,sentiment
 "['muncul', 'pas', 'banget', 'sambo', 'kelarkelar', 'drama', 'salah', 'tangkap', 'data', 'bocorbocor', 'banget', 'netizen', 'lengah']",negative
 "['gua', 'curiga', 'konyol', 'menutupi', 'anggep', 'aman', 'data', 'bocor', 'sepele', 'ya']",negative
 "['ciri', 'ciri', 'data', 'pribadi', 'bocor', 'laku']",negative
-"['periksa', 'data', 'terima', 'blt', 'nan', 'bocorkebobolankah', 'data', 'nan', 'tang', 'data', 'tlah', 'jebol', 'pulasudah', 'musibah', 'laku', 'kebijakandisanalah', 'iblis', 'dendang', 'nyanyi', 'riang', 'gembira']",negative
+"['periksa', 'data', 'terima', 'blt', 'netral', 'bocorkebobolankah', 'data', 'netral', 'tang', 'data', 'tlah', 'jebol', 'pulasudah', 'musibah', 'laku', 'kebijakandisanalah', 'iblis', 'dendang', 'nyanyi', 'riang', 'gembira']",negative
 "['data', 'bocor', 'kmna', 'ya', 'kalo', 'suka', 'tinggal', 'pakai', 'data', 'orang', 'nya', 'tangkap', 'deh', 'gampang', 'nya', 'isilop']",negative
 "['data', 'bocor']",negative
 "['lawak', 'buka', 'mikir', 'data', 'rakyat', 'nya', 'bocor', 'salah', 'kaya', 'tanggepan', 'nya', 'pola', 'pikir', 'jabat', 'kaya']",negative
@@ -12897,7 +12897,7 @@ content,sentiment
 "['data', 'bocor', 'bestie']",negative
 "['papa', 'pilot', 'ya', 'ih', 'ayang', 'tauiya', 'data', 'papa', 'bocor']",negative
 "['klaim', 'data', 'bocor', 'kominfo', 'audit', '13', 'miliar', 'sim', 'card', 'edar', 'internet', 'httpstcolked7e7f8s', 'via']",negative
-"['data', 'bocor', 'hei', 'wai', 'manusia', 'berbudipekerti', 'nan', 'budiman']",neutral
+"['data', 'bocor', 'hei', 'wai', 'manusia', 'berbudipekerti', 'netral', 'budiman']",neutral
 "['duh', '13', 'miliar', 'data', 'registrasi', 'sim', 'card', 'kominfo', 'duga', 'bocor']",negative
 "['kemarin', 'ribut', 'aplikasi', 'blokir', 'wkwk', 'lihat', 'nih', 'data', 'rakyat', 'bocor', 'malu']",negative
 "['ribet', 'hidup', 'lo', 'tong', 'kalo', 'lo', 'deteil', 'juallogika', 'sederhana', '1', 'orang', 'nomor', 'data', 'bocor']",negative
@@ -17069,7 +17069,7 @@ content,sentiment
 "['inti', 'bocor', 'nih', 'data', 'perban', 'nya', 'data', 'laku', 'kenal', 'laku', 'proses', 'jalur', 'hukum', 'coba', 'hubung', 'shopee', 'tindak', 'sisi', 'akun', 'shopee', 'nya', 'terimakasih', 'god', 'bless', 'you']",negative
 "['ilustrasi', 'dasar', 'datadata', 'ilmuwan', 'nazi', 'bocor', 'data', 'diam', 'sekutu', 'data', 'simpan', 'buah', 'area', 'khusus', 'server', 'khusus', 'lindung', 'khusus']",negative
 "['lupa', 'utamain', 'data', 'security', 'ya', 'awas', 'kalo', 'data', 'bocor']",negative
-"['negeri', 'fotokopi', 'suruh', 'bikin', 'aplikasi', 'latah', 'sih', 'iya', 'puluh', 'ribu', 'aplikasi', 'faedah', 'nan', 'boros', 'anggar', 'negara', 'data', 'individu', 'kelola', 'privasi', 'bocor', 'curi', 'sinkronisasi', 'lengkap']",negative
+"['negeri', 'fotokopi', 'suruh', 'bikin', 'aplikasi', 'latah', 'sih', 'iya', 'puluh', 'ribu', 'aplikasi', 'faedah', 'netral', 'boros', 'anggar', 'negara', 'data', 'individu', 'kelola', 'privasi', 'bocor', 'curi', 'sinkronisasi', 'lengkap']",negative
 "['waduuh', 'data', 'covid', 'presiden', 'jokowi', 'bocor', 'publik', 'geger', 'dunia', 'maya']",negative
 "['sih', 'dichat', 'pas', 'dichat', 'milik', 'rek', 'bri', 'data', 'nomor', 'bocor', 'kakean', 'bri', 'ki', 'wkwk']",negative
 "['engah', 'update', 'an', 'xiaomi', 'miui', '1304', 'kalo', 'scan', 'docs', 'watermark', 'scan', 'dokumen', 'san', 'paitnya', 'bocor', 'data', 'tau', 'nih', 'database', 'bocor']",negative
@@ -18774,7 +18774,7 @@ content,sentiment
 "['ulang', 'kali', 'ngetwit', 'sok', 'asik', 'gin', 'mending', 'urus', 'data', 'bocor', 'spam', 'sms', 'tuh', 'bangkai']",negative
 "['sepakat', 'pindah', 'tri', 'tahan', 'aman', 'pindah', 'cukupkarena', 'system', 'aman', 'data', 'system', 'intel', 'pusat', 'tri', 'wilayah', 'disgn', 'anti', 'bocor', 'nya', 'kendali']",negative
 "['data', 'kemenkes', 'bocor', 'raid', 'forum']",negative
-"['nih', 'contoh', 'lainnyapadahal', 'detaildetail', 'nan', 'dasar', 'aspek', 'teknologi', 'dunia', 'siber', 'beres', 'contoh', 'data', 'bocor']",negative
+"['nih', 'contoh', 'lainnyapadahal', 'detaildetail', 'netral', 'dasar', 'aspek', 'teknologi', 'dunia', 'siber', 'beres', 'contoh', 'data', 'bocor']",negative
 "['admin', 'tolol', 'urus', 'tuh', 'data', 'bocor']",negative
 "['data', 'bocor', 'reddit', 'solusi', 'blokir', 'redditnya']",negative
 "['data', 'bank', 'indonesia', 'duga', 'bocor', 'informasi', 'sumber', 'akun', 'twitter', 'dark', 'tracer']",negative
@@ -21453,8 +21453,7 @@ content,sentiment
 "['bocor', 'data', 'pribadi', 'marak', 'indonesia', 'resah', 'masyarakat', 'sektor', 'swasta', 'lembaga', 'negara', 'alhasil', 'datadata', 'bocor', 'diperjualbelikan', 'dunia', 'maya']",negative
 "['contoh', 'nik', 'presiden', 'bocor', 'data', 'bpjs', 'ayo', 'korban', 'rugi', 'bocor', 'segara', 'sahkan', 'ruu', 'pdp', 'lsm']",negative
 "['ehac', 'kemenkes', 'vpnmentor', 'salah', 'situs', 'ulas', 'vpn', 'publikasi', 'temu', 'bocor', 'data', 'database', 'ehac', 'kali', '15', 'juli', '2021', '13', 'juta', 'data', 'duga', 'bocor', 'database', 'ukur', '2gb', 'tanggulang', 'bocor']",negative
-['nan'],neutral
-['nan'],neutral
+['netral'],neutral
 "['contoh', 'buah', 'situs', 'jual', 'beli', 'online', 'nama', 'tkopeda', 'mei', '2020', '91', 'juta', 'data', '7', 'juta', 'data', 'jual', 'duga', 'bocor', 'diperjualbelikan']",negative
 "['data', 'bocor', 'mudah', 'disalahgunakan', 'manipulasi', 'curi', 'jual', 'timbul', 'potensi', 'langgar', 'hak', 'privasi', 'orang', 'data', 'pribadi']",negative
 "['datadata', 'bocor', 'diperjualbelikan', 'bebas', 'dunia', 'maya', 'laku', 'jahat', 'laku', 'phishing', 'target', 'jenis', 'serang', 'rekayasa', 'sosial']",negative
@@ -21589,7 +21588,7 @@ content,sentiment
 "['data', 'ditwitter', 'tuh', 'kalo', 'akun', 'hubung', 'lainterutama', 'aneh', 'aneh', 'ngakses', 'jaga', 'jaga', 'takut', 'bocor', 'data']",negative
 "['wajib', 'lapor', 'pajak', 'inti', 'program', 'bagus', 'data', 'aman', 'bocor']",negative
 "['pimpin', 'veteran', 'berontak', 'kosovo', 'nafi', 'tuduh', 'hubung', 'data', 'saksi', 'bocor', 'httpstcozelyyweaba', 'the', 'hague', 'reuters', 'pimpin', 'veteran', 'tentera', 'bebas', 'kosovo', 'kla', 'ber']",negative
-"['eh', 'hasil', 'periksa', 'nan', 'ngadingadi', 'bocor', 'publik', 'sih', 'pas', 'rangorang', 'ditanyain', 'kalo', 'perkosa', 'gila', 'habis', 'cerai', 'data', 'rahasia', 'ya']",negative
+"['eh', 'hasil', 'periksa', 'netral', 'ngadingadi', 'bocor', 'publik', 'sih', 'pas', 'rangorang', 'ditanyain', 'kalo', 'perkosa', 'gila', 'habis', 'cerai', 'data', 'rahasia', 'ya']",negative
 "['iya', 'data', 'data', 'agens', 'bocor']",negative
 "['proyek', 'iki', 'sing', 'konsultan', 'konco', 'ku', 'cak', 'bilang', 'ujung', 'nya', 'nik', 'butuh', 'remeh', 'temeh', 'urus', 'perban', 'dll', 'data', 'pribadi', 'bocor', 'kemana2', 'ya', 'siap2', 'wae', 'wallahualam']",negative
 "['parah', 'ya', 'menelfon', 'bni', 'data', 'data', 'pribadi', 'tau', 'trahir', '3', 'angka', 'blakang', 'kartu', 'ya', 'ku', 'tolak', 'ya', 'data', 'nasabah', 'bni', 'bocor']",negative
@@ -21754,7 +21753,7 @@ content,sentiment
 "['hp', 'skrin', 'data', 'bocor', 'hubung', 'orang', 'kenal', 'dunia', 'puluh', 'orang', 'pelbagai', 'negara']",negative
 "['gua', 'pakai', 'pinjol', 'langsung', 'sms', 'nomor', 'random', 'deh', 'purapura', 'pinjol', 'data', 'fix', 'bocor', 'ya', 'wkwk', 'rip', 'data', 'pribadi']",negative
 "['kalo', 'sih', 'kalo', 'menakutkan', 'data', 'bocor', 'data', 'bpjs', 'sehat', 'kemarin', 'ngapa2in', 'bocor', 'kuasa', 'resiko', 'warga', 'indonesia', 'kalo', 'ideal', 'perkara', 'data', 'bocor', 'kuasa', 'data', 'tanggung', 'yagitude']",negative
-"['indak', 'kayak', 'nan', 'data', 'mu', 'bocor', 'kah']",negative
+"['indak', 'kayak', 'netral', 'data', 'mu', 'bocor', 'kah']",negative
 "['data', 'bocor']",negative
 "['telaaaat', 'copy', 'an', 'ktp', 'edar', 'instansi', 'wajib', 'copy', 'ktp', 'urus', 'dokumentasi', 'bpk', 'mengomong', 'gin', 'data', 'bpk', 'bocor', 'ya']",negative
 "['yaelah', 'data', 'lu', 'bocor', 'pakai', 'esia', 'hidayah', 'hp', 'terkonesi', 'internet']",negative
